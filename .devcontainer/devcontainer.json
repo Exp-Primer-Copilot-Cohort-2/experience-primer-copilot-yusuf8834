@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Skills for Data Engineering!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
